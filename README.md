@@ -23,8 +23,3 @@ It features a sleek interface, smooth animations, and user-friendly navigation, 
 - ✅ Clean, Modern, and Fully Responsive UI  
 
 ---
-
-## ⚙️ How to Run the Project
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/nostra-ecommerce.git
