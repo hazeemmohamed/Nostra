@@ -149,10 +149,14 @@ body{
     position: relative;
     align-items: center;
     padding: 20px;
+    margin-top: 6%;
 }
 .slider-img{
     width: 100%;
     border-radius: 10px;
+}
+#slider-image {
+  transition: transform 0.8s ease;
 }
 .advertise-content{
    display: flex;
